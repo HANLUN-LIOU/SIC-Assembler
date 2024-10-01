@@ -10,6 +10,6 @@ Pass 1 function:
 >> Calculate the location value  
 >> Create the symbol table  
 >> Generate the immediate file  
-Pass 2 function:
+Pass 2 function:  
 > Calculate the object code
 > Produce the final object program  
